@@ -1,0 +1,46 @@
+.container {
+padding: 4rem; 
+}
+
+.calcolatrice {
+    background-color: lightgray;
+    border-color: lightgray;
+    border-radius: 3rem;
+    border-width: 1rem;
+    width: 240px;
+    padding: 3rem;
+    text-align: center;
+}
+#schermo {
+    text-align: left;
+    width: 194px;
+    height: 32px;
+    background-color: white;
+    color: black;
+    font-size: 1.8rem;
+    font-family: arial;
+    margin: 0.25rem;
+    border-radius: 0.3rem;
+    border-style: solid;
+    border-color: black;
+    border-width: 0.2rem;
+    margin-bottom: 0.6rem;
+    padding: 1rem;
+}
+
+button {
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    color: black;
+    font-size: 2rem;
+    font-family: arial;
+    margin: 0.2rem;
+    border-radius: 0.3rem;
+    border-color: gray;
+}
+#uguale {
+    width: 233px;
+    margin-top: 0.5rem;
+}
